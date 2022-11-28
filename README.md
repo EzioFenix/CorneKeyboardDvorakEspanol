@@ -29,3 +29,13 @@ Incluye la siguiente biblioteca
 Más información
 
 - [Crear y flashear tu propio keymap con QMK firmware - DEV Community 👩‍💻👨‍💻](https://dev.to/mandrewcito/crear-y-flashear-tu-propio-keymap-con-qmk-firmware-2nd6)
+
+Otra que tenemso que incluir para caracteres especiales del español es la siguiente biblioteca 
+
+```
+#include "quantum.h"
+```
+
+Puedes ver los caracteres 
+
+## 
